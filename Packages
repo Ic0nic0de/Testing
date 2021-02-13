@@ -38,13 +38,13 @@ Package: com.ic0nic0de.taptaplock
 Version: 1.5.5
 Architecture: iphoneos-arm
 Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
-Installed-Size: 564
+Installed-Size: 472
 Depends: mobilesubstrate, ws.hbang.common (>= 1.16)
 Filename: ./debs/com.ic0nic0de.taptaplock_1.5.5_iphoneos-arm.deb
-Size: 36166
-MD5sum: 57d0ecf1870870f9ad9ec57cd025aab1
-SHA1: 53bbede2b4eab36aba7635ccf1bf8529b1789504
-SHA256: ddc26e733ca47211f1b85a04e42746dfb460b4f8dd5268296224a696b43240dd
+Size: 34840
+MD5sum: 60a457425b19a79304426384e187405e
+SHA1: 933327c0182181cd813653399134f42258fac191
+SHA256: 0a8e085f397e820f142562a069f727ef2884321c84cd057965a13078473041e0
 Section: Tweaks
 Description: Tap on the homescreen to lock your device
 Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
