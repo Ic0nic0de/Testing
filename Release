@@ -1,8 +1,8 @@
-Origin:  Ic0nic0de Testing Repo 
+Origin:  Ic0nic0de's Testing Repo 
 Label:  Ic0nic0de 
 Suite: stable
 Version: 1.0
 Codename: com.Ic0nic0de.TestRepo
-Architectures: iphoneos-arm 
+Architectures: iphoneos-arm
 Components: main
-Description: Ic0nic0de Testing Repo
+Description: Ic0nic0de's Testing Repo
