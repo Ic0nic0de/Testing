@@ -16,3 +16,21 @@ Depiction: http://ic0nic0de.github.io/Main/depictions/com.Ic0nic0de.msbypass/ind
 Icon: file:///Library/PreferenceBundles/msbypassPrefs.bundle/icons/icon@3x.png
 Name: MS Bypass
 
+Package: com.ic0nic0de.msbypass
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Installed-Size: 472
+Depends: mobilesubstrate, ws.hbang.common (>= 1.16)
+Filename: ./debs/com.ic0nic0de.msbypass_1.0.1_iphoneos-arm.deb
+Size: 33950
+MD5sum: 62fa0548f4fb7891f2bbc359e5a981d9
+SHA1: 237ad28558ae46b1eeb036e05b503152c6661588
+SHA256: 432faef902df49ff2c5412af21891e6b0356d11fa6ffbda81266f6a012c56b20
+Section: Tweaks
+Description: Bypass managed browser enforcement on MS Excel & MS Outlook
+Author:  Ic0nic0de  <Ic0nic0de@gmail.com>
+Depiction: http://ic0nic0de.github.io/Main/depictions/com.Ic0nic0de.msbypass/index.html
+Icon: file:///Library/PreferenceBundles/msbypassPrefs.bundle/icons/icon@3x.png
+Name: MS Bypass
+
